@@ -1,0 +1,6 @@
+{
+  "name": "Pep Flick",
+  "description": "A premium cinematic movie discovery and streaming player platform powered by TMDB, featuring custom user profiles, curated catalogs, and rich media playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
